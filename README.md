@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Digital Marketer turned Front End Developer
 -------------------------------------------
 
-I am a digital marketer with an MBA who recently discovered a passion for front end development. I am a self taught developer and I am working every day to become "job-ready". I have experience in UX Design, copywriting, and SEM Marketing. Within the next year, I hope to have a solid job as a Frontend Web Dev.
+I am a digital marketer with an MBA who recently discovered a passion for front end development. I am a self taught developer and I am working every day to become "job-ready". I have experience in UX Design, copywriting, and SEM Marketing. Within the next year, I hope to have built something really cool.
 
 * 🌍  I'm based in Nashville, TN
 * ✉️  You can contact me at [jacobpshelton@gmail.com](mailto:jacobpshelton@gmail.com)
-* 🧠  I'm learning JS React
+* 🧠  I'm learning
 * 🤝  I'm open to collaborating on anything that can help my knowledge base grow
 
 ### Skills
